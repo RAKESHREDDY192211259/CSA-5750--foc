@@ -1,0 +1,17 @@
+nclude <stdio.h>
+
+int main()  {
+	int first, second, temp;
+	printf("enter first number: ");
+	scanf("%d", &first);
+	printf("enter second number: ");
+	scanf("%d", &second);
+	
+	temp = first;
+	first = second;
+	second = temp;
+	
+	printf("\nafter swapping,  first number = %dn", first);
+	printf("after swapping, second number = %d", second);
+	returns 0;
+}
