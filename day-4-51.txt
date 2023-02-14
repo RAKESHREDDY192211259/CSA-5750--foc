@@ -1,0 +1,22 @@
+
+katak@RAKESHREDDY MINGW64 ~
+$ vi add.rrr
+
+katak@RAKESHREDDY MINGW64 ~
+$ bash add.rrr
+enter the first number
+3
+enter the second number
+5
+enter the third number
+6
+enter the fourth number
+1
+the sum of these numbers: 9
+the average of these numbers is: 2
+the product of these numbers is: 90
+
+katak@RAKESHREDDY MINGW64 ~
+$
+
+
