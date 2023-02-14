@@ -1,0 +1,18 @@
+
+katak@RAKESHREDDY MINGW64 ~
+$ vi add.rr
+
+katak@RAKESHREDDY MINGW64 ~
+$ bash add.rr
+enter value for x :
+5
+enter value for y :
+6
+before: x = 5 and y = 6
+after: x 6 and y = 5
+
+katak@RAKESHREDDY MINGW64 ~
+$
+
+
+
