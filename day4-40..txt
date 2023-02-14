@@ -1,0 +1,18 @@
+
+katak@RAKESHREDDY MINGW64 ~
+$ vi add.ss
+
+katak@RAKESHREDDY MINGW64 ~
+$ bash add.ss
+enter the first number
+3
+enter the second number
+4
+enter the third number
+5
+add.ss: line 11: [: too many arguments
+The greatest of given three numbers is 5
+
+katak@RAKESHREDDY MINGW64 ~
+$
+
