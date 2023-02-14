@@ -1,0 +1,13 @@
+
+katak@RAKESHREDDY MINGW64 ~
+$ vi add.sk
+
+katak@RAKESHREDDY MINGW64 ~
+$ bash add.sk
+enter a number
+4
+The square of the given number is 16
+
+katak@RAKESHREDDY MINGW64 ~
+$
+
