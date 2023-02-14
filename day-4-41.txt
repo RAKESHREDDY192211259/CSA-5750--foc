@@ -1,0 +1,14 @@
+
+katak@RAKESHREDDY MINGW64 ~
+$ vi add.a
+
+katak@RAKESHREDDY MINGW64 ~
+$ bash add.a
+enter a year
+2023
+taking year as 2023
+it is not a leap year
+
+katak@RAKESHREDDY MINGW64 ~
+$
+
